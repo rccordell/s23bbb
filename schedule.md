@@ -76,7 +76,7 @@ Tuesday, February 21 | Discussion
 
 Thursday, February 23 | Lab 4: Bibliocircuitry
 
-**Friday, February 24 | DUE: BOOK PROJECT PROMPT**
+Friday, February 24 | **DUE: BOOK PROJECT PROMPT**
 
 ## Chapter 5: Gathering
 
@@ -99,7 +99,7 @@ Tuesday, March 7 | Discussion
 
 Thursday, March 9 | Lab 6: E-lit
 
-**Friday, March 10 | DUE: BOOK PROJECT PROPOSAL**
+Friday, March 10 | **DUE: BOOK PROJECT PROPOSAL**
 
 — 
 ## Interlude: Spring Break
@@ -129,7 +129,7 @@ Tuesday, March 28 | Discussion
 
 Thursday, March 30: Studio
 
-**Friday, March 31 | DUE: BOOK PROJECT PROTOTYPE**
+Friday, March 31 | **DUE: BOOK PROJECT PROTOTYPE**
 
 ## Chapter 9: Future Past
 
