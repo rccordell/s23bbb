@@ -4,12 +4,16 @@ title: Course Policies
 bigimg: /img/typewriter.jpg
 ---
 
+## Course Metadata
+
 + Course Number: ENGL475
 + Spring 2023
-+ Classroom: CU Community FabLab
++ Classroom: [CU Community FabLab](http://cucfablab.org/)
 + Class Time: Tuesdays and Thursday 9:30-10:50
-+ Credit hours: 3 (undergrad) or 4 (grad)
-+ FabLab Open Hours Monday-Thursday 5-9pm & Sunday 1-6pm (public), Friday 1-5pm (students in FabLab classes)
++ Credit hours: 3 undergrad/4 grad
++ FabLab Open Hours: 
+    + Monday-Thursday 5-9pm & Sunday 1-6pm (public)
+    + Friday 1-5pm (students in FabLab classes) 
 + Skeuomorph Press Open Hours: TBA 
 
 ## Instructor Info
