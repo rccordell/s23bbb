@@ -6,7 +6,7 @@ bigimg: /img/typewriter.jpg
 
 ## Course Metadata
 
-+ Course Number: ENGL475
++ Course Number: ENGL475, Literature and Other Disciplines
 + Spring 2023
 + Classroom: [CU Community FabLab](http://cucfablab.org/)
 + Class Time: Tuesdays and Thursday 9:30-10:50
