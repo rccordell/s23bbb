@@ -23,7 +23,7 @@ In this course, you will determine the grade you receive by fulfilling a contrac
 
 In brief, your written contract should detail: 
 
-1. A formal declaration of the grade you intend to earn: e.g. "During the Spring 2022 semester I, NAME HERE, contract to earn an A in 'Building a (Better) Book'";
+1. A formal declaration of the grade you intend to earn: e.g. "During the Spring 2023 semester I, NAME HERE, contract to earn an A in 'Building a (Better) Book'";
 2. The requirements you will meet in order to receive the grade for which you've contracted;  
 3. Due dates for the major milestones of your final book project, which must come on on before the deadlines in [the course schedule](/schedule/);
 4. The penalties you will incur for not meeting deadlines or not completing sufficient work for a given assignment; 

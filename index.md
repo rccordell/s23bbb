@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Building a (Better) Book"
-subtitle: An English Seminar at UIUC, Spring 2022
+subtitle: An English Seminar at UIUC, Spring 2023
 bigimg: /img/5713183928_a6b06c65e6_o.jpg
 ---
 
