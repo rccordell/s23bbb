@@ -50,7 +50,7 @@ Regardless of how they are prepared, each proposal should describe:
 
 We will evaluate your proposals together in order to ensure they are well outlined and scoped appropriately. All proposals need to be accepted before you move on to the next stage of development.
 
-### Prototype
+### 3. Prototype
 
 By Friday, March 31 you will submit a prototype demonstrating the viability of your project concept. What you will submit during the prototype stage will vary widely by project, but it should essentially be a proof of concept: evidence that the plan you outlined in your proposal is feasible and that you are on track toward completion. Among other possibilities, you might submit:
 
@@ -60,7 +60,7 @@ By Friday, March 31 you will submit a prototype demonstrating the viability of y
 
 The primary goal for the prototype is to demonstrate steady progress on your project up to the point of submission, likely around mid-semester. If your project has significantly shifted from what was proposed and accepted at the proposal stage, the prototype stage will also be the point at which you will submit a revised project proposal.
 
-### Final Project
+### 4. Final Project
 
 Your project should result in a final object, set of objects, or digital artifact, as well as an artist(s) statement describing what you have accomplished in your project. These will be due a little before the end of the semester, in time for the final project showcase during the last two days of class.
 
@@ -68,6 +68,6 @@ Your project should result in a final object, set of objects, or digital artifac
 
 Your final project must include an artist(s) statement, likely a few pages in length, outlining the aims of your project and how you achieved those aims. Like the projects themselves, these statements will vary widely, but they should help readers/users understand the theories of the book your project seeks to instantiate, the methods and materials you used in producing your book, and any habits of reading required to fully understand your book project. In short, your statement should summarize the intellectual work of your semester so that the labor of your project—both physical and mental—is clear. Include in your final statement your own definition of "the book,"" adapted from our discussions, your writing throughout the semester, our readings, and the insights gleaned from working on your book project. 
 
-### Final Project Showcase
+#### Final Project Showcase
 
 During the last days of class you will present your projects to each other and to interested members of the campus community. We will discuss this event in more detail as the end of the semester approaches.

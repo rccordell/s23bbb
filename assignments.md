@@ -56,9 +56,9 @@ In addition to the items in "All Contracts" above, to contract for an "A" in thi
 1. Miss no more than two classes, inclusive of lab and studio sessions.
 2. Take no more than one information overload day during the semester. 
 3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
-4. Earn “Satisfactory” on all class preparation fieldbook entries save one.
-5. Write at least eight "Satisfactory" reflective fieldbook entries over the course of the semester. 
-6. Complete an exemplary book project, meeting all specified deadlines, and presenting your project in the final week of the semester.
+4. Submit all [discussion preparation assignments](https://s23bbb.ryancordell.org/assignments/discussion-prep/) except for one
+5. Complete seven of eight [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/)
+6. Complete an exemplary [(Better) Book Project](https://s23bbb.ryancordell.org/assignments/book-project/), meeting all specified deadlines, and presenting your project in the final week of the semester.
 
 ### "B" Contract
 
@@ -67,9 +67,9 @@ In addition to the items in "All Contracts" above,  to contract for an "B" in th
 1. Miss no more than three classes, inclusive of lab and studio sessions.
 2. Take no more than one information overload day during the semester. 
 3. Fully meet expectations expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
-4. Earn “Satisfactory” on all class preparation fieldbook entries save two.
-5. Write at least seven "Satisfactory" reflective fieldbook entries over the course of the semester. 
-6. Complete a satisfactory book project, meeting all specified deadlines, and presenting your project in the final week of the semester.
+4. Submit all [discussion preparation assignments](https://s23bbb.ryancordell.org/assignments/discussion-prep/) except for two
+5. Complete six of eight [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/)
+6. Complete a satisfactory [(Better) Book Project](https://s23bbb.ryancordell.org/assignments/book-project/), meeting all specified deadlines with only minor delays, and presenting your project in the final week of the semester.
 
 ### "C" Contract
 
@@ -78,9 +78,9 @@ In addition to the items in "All Contracts" above, to contract for an "C" in thi
 1. Miss no more than four classes, inclusive of lab and studio sessions.
 2. Take no more than two information overload day during the semester. 
 3. Generally meet expectation regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
-4. Earn “Satisfactory” on all class preparation fieldbook entries save three.
-5. Write at least six "Satisfactory" reflective fieldbook entries over the course of the semester. 
-6. Complete a satisfactory book project, meeting all specified deadlines, by the end of the semester.
+4. Submit all [discussion preparation assignments](https://s23bbb.ryancordell.org/assignments/discussion-prep/) except for two
+5. Complete six of eight [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/) 
+6. Complete a satisfactory [(Better) Book Project](https://s23bbb.ryancordell.org/assignments/book-project/), meeting all specified deadlines without serious delays, by the end of the semester.
 
 ### "D" and "F" Grades
 
