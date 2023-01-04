@@ -32,7 +32,7 @@ Monday, January 30 | Friday, **DUE: Grade Contracts**
 Tuesday, January 31 | Discussion
 
 + Ellen Lupton, “Letter” from _Thinking With Type_ (2010)
-+ Amaranth Borsuk, “The Book as Content” from _The Book_ (2018)\
++ Amaranth Borsuk, “The Book as Content” from _The Book_ (2018)
 + Riley Cran, "Custom Fonts for Pentiment" (2022), [external link](https://lettermatic.com/custom/pentiment)
 
 Thursday, February 2 | Lab 3a: Typesetting
