@@ -72,7 +72,7 @@ Tuesday, February 21 | Discussion
 + Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, [“Thinking as Handwork: Critical Making with Humanistic Concerns”](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
 + read the “About” page and browse the website for Sari Altschuler and David Weimer’s _Touch This Page_ project, [external link](https://touchthispage.com/about-us)
 
-Thursday, February 23 | Lab 4: Bibliocircuitry
+Thursday, February 23 | Lab 4: Lasers!
 
 Friday, February 24 | **DUE: BOOK PROJECT PROMPT**
 
