@@ -57,7 +57,7 @@ In addition to the items in "All Contracts" above, to contract for an "A" in thi
 2. Take no more than one information overload day during the semester. 
 3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/). 
 4. Submit all [discussion preparation assignments](https://s23bbb.ryancordell.org/assignments/discussion-prep/) except for one
-5. Complete seven of eight [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/)
+5. Complete five of six [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/)
 6. Complete an exemplary [(Better) Book Project](https://s23bbb.ryancordell.org/assignments/book-project/), meeting all specified deadlines, and presenting your project in the final week of the semester.
 
 ### "B" Contract
@@ -68,7 +68,7 @@ In addition to the items in "All Contracts" above,  to contract for an "B" in th
 2. Take no more than one information overload day during the semester. 
 3. Fully meet expectations expectations regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
 4. Submit all [discussion preparation assignments](https://s23bbb.ryancordell.org/assignments/discussion-prep/) except for two
-5. Complete six of eight [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/)
+5. Complete four of six [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/)
 6. Complete a satisfactory [(Better) Book Project](https://s23bbb.ryancordell.org/assignments/book-project/), meeting all specified deadlines with only minor delays, and presenting your project in the final week of the semester.
 
 ### "C" Contract
@@ -79,7 +79,7 @@ In addition to the items in "All Contracts" above, to contract for an "C" in thi
 2. Take no more than two information overload day during the semester. 
 3. Generally meet expectation regarding in-class device according to the [policies outlined in the device use rubric](/policies/).
 4. Submit all [discussion preparation assignments](https://s23bbb.ryancordell.org/assignments/discussion-prep/) except for two
-5. Complete six of eight [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/) 
+5. Complete three of six [Book Lab reports](https://s23bbb.ryancordell.org/assignments/book-labs/) 
 6. Complete a satisfactory [(Better) Book Project](https://s23bbb.ryancordell.org/assignments/book-project/), meeting all specified deadlines without serious delays, by the end of the semester.
 
 ### "D" and "F" Grades

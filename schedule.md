@@ -11,7 +11,7 @@ Tuesday, January 17 | Discussion
 + Browse [Kit Davey’s Instagram](https://www.instagram.com/daveykit/?hl=en)
 + Sarah Werner, "Looking at Books" from _Studying Early Printed Books, 1450-1800: A Practical Guide_ (2019), [library link](https://proxy2.library.illinois.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1991322&site=ehost-live&ebv=EB&ppid=pp_102)
 
-Thursday, January 19 | Lab 1: Looking at Books 
+Thursday, January 19 | Looking at Books 
 
 _Note: Meet in the [Rare Book and Manuscript Library](https://www.library.illinois.edu/rbx/), Main Library Room 346_
 
@@ -23,7 +23,7 @@ Tuesday, January 24 | Discussion
 + Ken Liu, [“The Bookmaking Habits of Select Species”](http://www.lightspeedmaga.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Amaranth Borsuk, “The Book as Object” from _The Book_ (2018)
 
-Thursday, January 26 | Lab 2: Tracery to GPT
+Thursday, January 26 | Lab 1: Tracery to GPT
 
 ## Chapter 2, Part I: Composition
 
@@ -35,7 +35,7 @@ Tuesday, January 31 | Discussion
 + Amaranth Borsuk, “The Book as Content” from _The Book_ (2018)
 + Riley Cran, "Custom Fonts for Pentiment" (2022), [external link](https://lettermatic.com/custom/pentiment)
 
-Thursday, February 2 | Lab 3a: Typesetting
+Thursday, February 2 | Lab 2a: Typesetting
 
 ## Chapter 2, Part II: Imposition
 
@@ -46,7 +46,7 @@ Tuesday, February 7 | Discussion
 + Barbara Heritage and Ruth-Ellen St. Onge, "Format," from the "Building the Book from the Ancient World to the Present Day" Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school/format)
 + Find 2-3 videos of interest from [Book Historia's Bite Sized Book History](https://www.youtube.com/@BookHistoria/videos) series and be ready to share what you learned from them
 
-Thursday, February 9 | Lab 3b: Print
+Thursday, February 9 | Lab 2b: Print
 
 
 ## Chapter 3: Pastiche
@@ -58,7 +58,7 @@ Tuesday, February 14 | Discussion
 + Amy Burek, Emily Alden Foster, Sarah Fox, and Daniela K. Rosner, "Feminist Hackerspaces: Hacking Culture, Not Devices (the zine!)" (2017), [external link](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/633d5ff2-d3c4-4345-b7fe-048155e28493#ch25)
 + Browse the [_Queer Zine Archive Project_ blog](https://www.qzap.org/v9/index.php) and its [zine archive](https://archive.qzap.org/)
 
-Thursday, February 16 | Lab 4: Zine
+Thursday, February 16 | Lab 3: Zine
 
 Guest Instructors: Maria Emerson (Student Success Librarian) and Sarah Christensen (Visual Resources and Outreach Specialist), Main Library
 
@@ -72,7 +72,7 @@ Tuesday, February 21 | Discussion
 + Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, [“Thinking as Handwork: Critical Making with Humanistic Concerns”](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
 + read the “About” page and browse the website for Sari Altschuler and David Weimer’s _Touch This Page_ project, [external link](https://touchthispage.com/about-us)
 
-Thursday, February 23 | Lab 5: Bibliocircuitry
+Thursday, February 23 | Lab 4: Bibliocircuitry
 
 Friday, February 24 | **DUE: BOOK PROJECT PROMPT**
 
@@ -84,7 +84,7 @@ Tuesday, February 28 | Discussion
 + Élika Ortega, [“The Many Books of the Future: Print-digital Literatures”](http://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/) (2020) 
 + Barbara Heritage and Ruth-Ellen St. Onge, "Bookbindings Before 1800, "Bookbinding Tools, Stamps, Dies, Leather, and Cloth," and "Bookbindings After 1800" from the "Building the Book from the Ancient World to the Present Day" Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school)
 
-Thursday, March 2 | Lab 6: Binding
+Thursday, March 2 | Lab 5: Binding
 
 ## Chapter 6: Interaction
 
@@ -95,7 +95,7 @@ Tuesday, March 7 | Discussion
 + Amaranth Borsuk, "The Book as Interface” from _The Book_ (2018)
 + Choose 2-3 works from the _Electronic Literature Collection_ [Volume 3](https://collection.eliterature.org/3/) (2016) or [Volume 4](https://collection.eliterature.org/4/) (2022) to read and share with the group
 
-Thursday, March 9 | Lab 7: E-lit
+Thursday, March 9 | Lab 6: E-lit
 
 Friday, March 10 | **DUE: BOOK PROJECT PROPOSAL**
 
@@ -114,7 +114,7 @@ Tuesday, March 21 | Discussion
 + Beth Driscoll and Claire Squires, [“‘Oh Look, a Ferry’; or the Smell of Printed Books”](https://www.theliftedbrow.com/liftedbrow/2018/10/24/oh-look-a-ferry-or-the-smell-of-paper-books-by-beth-driscoll-and-claire-squires) (2018)
 + Merve Emre, “This Library Has New Books by Major Authors, but They Can’t Be Read Until 2114” (2018), [external link](https://www.nytimes.com/2018/11/01/t-magazine/future-library-books.html)
 
-Thursday, March 23 | Lab 8: Artists Books
+Thursday, March 23 | Artists Books
 
 _Note: Meet in the [Rare Book and Manuscript Library](https://www.library.illinois.edu/rbx/), Main Library Room 346_
 
