@@ -23,7 +23,7 @@ Tuesday, January 24 | Discussion
 + Ken Liu, [“The Bookmaking Habits of Select Species”](http://www.lightspeedmaga.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Amaranth Borsuk, “The Book as Object” from _The Book_ (2018)
 
-Thursday, January 26 | Lab 1: Tracery to GPT
+Thursday, January 26 | Lab 1: Amanuenses to AI
 
 ## Chapter 2, Part I: Composition
 
