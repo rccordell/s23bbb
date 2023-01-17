@@ -24,7 +24,7 @@ What is a book, and what might it become? This studio-based course will be a his
 ## Instructor Info
 
 + Ryan Cordell
-+ Office Hours: Tuesday 11-12 and Friday 2-4pm in Skeuomorph Press, and by appointment
++ Office Hours: Tuesday 11am-12pm and Thursdays 5-6pm in Skeuomorph Press, and by appointment
 + Phone: 217-333-2622
 + Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu)
 

@@ -20,7 +20,7 @@ bigimg: /img/typewriter.jpg
 
 + Ryan Cordell
 + Office: 614 Daniel St., Room 5147
-+ Office Hours: Tuesday 11-12 and Fridays 2-4pm in Skeuomorph Press, and by appointment
++ Office Hours: Tuesday 11am-12pm and Thursdays 5-6pm in Skeuomorph Press, and by appointment
 + Phone: 217-333-2622
 + Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu)
 
