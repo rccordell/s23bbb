@@ -20,7 +20,7 @@ _Note: Meet in the [Rare Book and Manuscript Library](https://www.library.illino
 Tuesday, January 24 | Discussion
 
 + Ursula K. Le Guin, “A Rant about ‘Technology’” (2004), [external link](http://www.ursulakleguinarchive.com/Note-Technology.html)
-+ Ken Liu, [“The Bookmaking Habits of Select Species”](http://www.lightspeedmaga.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
++ Ken Liu, [“The Bookmaking Habits of Select Species”](https://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Amaranth Borsuk, “The Book as Object” from _The Book_ (2018)
 
 Thursday, January 26 | Lab 1: Amanuenses to AI
