@@ -31,7 +31,7 @@ Monday, January 30 | Friday, **DUE: Grade Contracts**
 
 Tuesday, January 31 | Discussion
 
-+ Ellen Lupton, “Letter” from _Thinking With Type_ (2010)
++ Ellen Lupton, “Letter” from _Thinking With Type_ (2010), [Canvas link](https://canvas.illinois.edu/courses/33083/files/folder/Readings?preview=7008240)
 + Amaranth Borsuk, “The Book as Content” from _The Book_ (2018)
 + Riley Cran, "Custom Fonts for Pentiment" (2022), [external link](https://lettermatic.com/custom/pentiment)
 
@@ -41,7 +41,7 @@ Thursday, February 2 | Lab 2a: Typesetting
 
 Tuesday, February 7 | Discussion
 
-+ Ellen Lupton, “Text” and "Grid" from _Thinking With Type_ (2010)
++ Ellen Lupton, “Text” and "Grid" from _Thinking With Type_ (2010), [Canvas link](https://canvas.illinois.edu/courses/33083/files/folder/Readings?preview=7008240)
 + Meredith L. McGill, “Format” (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707740)
 + Barbara Heritage and Ruth-Ellen St. Onge, "Format," from the "Building the Book from the Ancient World to the Present Day" Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school/format)
 + Find 2-3 videos of interest from [Book Historia's Bite Sized Book History](https://www.youtube.com/@BookHistoria/videos) series and be ready to share what you learned from them
