@@ -5,10 +5,6 @@ use-site-title: true
 bigimg: /img/32004918513_48fc6589d4_c.jpg
 ---
 
-{{ content }}
-
-{% assign posts = paginator.posts | default: site.posts %}
-
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
