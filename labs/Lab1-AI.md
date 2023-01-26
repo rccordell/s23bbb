@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Lab 1: Amanuenses to AI"
-author: rccordell
-permalink: /ai/
 ---
 
 > every figure of speech, snowclone, cliché, joke, proposition, statement, and practically every linguistic structure that can be turned into a template is easily explored with a bot. Every work of literature, every writer’s body of work, every literary movement, national literature, and textual corpus is waiting to be analyzed with a Markov chain or other textual generation technique…Social interactions, conversations, calls and responses, platform-defined  interactions (retweets, favorites, and so on) are all ready to be codified into algorithms and explored via bot.
