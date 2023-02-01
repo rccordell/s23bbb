@@ -53,9 +53,10 @@ Thursday, February 9 | Lab 2b: Print
 
 Tuesday, February 14 | Discussion
 
-+ Lisa Vollrath, [“A Crash Course On Altered Books”](https://mixedmedia.club/a-crash-course-on-altered-books/) (2014)
+<!-- + Lisa Vollrath, [“A Crash Course On Altered Books”](https://mixedmedia.club/a-crash-course-on-altered-books/) (2014) -->
 + Zine Librarians Code of Ethics (2015), [external link](https://zinelibraries.info/code-of-ethics/)
 + Amy Burek, Emily Alden Foster, Sarah Fox, and Daniela K. Rosner, "Feminist Hackerspaces: Hacking Culture, Not Devices (the zine!)" (2017), [external link](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/633d5ff2-d3c4-4345-b7fe-048155e28493#ch25)
++ Jenna Freedman, "Zines Are Not Blogs: A Not Unbiased Analysis" (2022?), [external link](https://zines.barnard.edu/are-zines-blogs)
 + Browse the [_Queer Zine Archive Project_ blog](https://www.qzap.org/v9/index.php) and its [zine archive](https://archive.qzap.org/)
 
 Thursday, February 16 | Lab 3: Zine
