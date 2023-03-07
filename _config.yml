@@ -33,6 +33,7 @@ navbar-links:
     - Semester Book Project: "assignments/book-project/"
   Labs:
     - Lab 1: "labs/Lab1-AI"
+    - Lab 6: "labs/Lab6-Ebooks"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)

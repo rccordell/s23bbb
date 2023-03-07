@@ -98,7 +98,7 @@ Tuesday, March 7 | Discussion
 
 Thursday, March 9 | Lab 6: E-lit
 
-Friday, March 10 | **DUE: BOOK PROJECT PROPOSAL**
+
 
 — 
 ## Interlude: Spring Break
@@ -108,6 +108,8 @@ March 11-19
 —
 
 ## Chapter 7: Experimentation
+
+Monday, March 20 | **DUE: BOOK PROJECT PROPOSAL**
 
 Tuesday, March 21 | Discussion
 
@@ -128,8 +130,6 @@ Tuesday, March 28 | Discussion
 
 Thursday, March 30: Studio
 
-Friday, March 31 | **DUE: BOOK PROJECT PROTOTYPE**
-
 ## Chapter 9: Future Past
 
 Tuesday, April 4 | Discussion
@@ -137,6 +137,9 @@ Tuesday, April 4 | Discussion
 + Jon Bois, “What Football Will Look Like in the Future” (2017), [external link](https://www.sbnation.com/a/17776-football/). _Note: This story is a longer read—a novelette, probably—but worth the time. Plan accordingly_
 
 Thursday, April 6 | Studio
+
+Friday, April 7| **DUE: BOOK PROJECT PROTOTYPE**
+
 
 ## Chapter 10: Denouement
 
