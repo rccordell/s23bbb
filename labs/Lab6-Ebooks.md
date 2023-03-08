@@ -11,7 +11,7 @@ I've also prepared a basic [Twine interpretation of the first chapter of *Moby D
 
 If you already know Twine, or find yourself understanding its basic functions quickly, the [Twine Cookbook](https://twinery.org/cookbook/) provides robust documentation about Twine and its integrations, including JavaScript. The "Twine 2 Examples," in particular, outline how to build in many more advanced features to a Twine story/game. The [Extensions and Libraries](https://twinelab.net/twine-resources/#/?id=extensions-and-libraries) page at [Twine Resources](https://twinelab.net/twine-resources/#/) also lists a number of integrations to extend Twine.
 
-The basic premise for today's lab report is simple: write in in Twine! You should use at least 2-3 more advanced features (e.g. variables or macros) or integration. Include at least one section of your Twine that analyzes your process in light or our readings and discussions, as you do in other lab reports.
+The basic premise for today's lab report is simple: write it in Twine! You should use at least 2-3 more advanced features (e.g. variables or macros) or integration. Include at least one section in your Twine narrative that analyzes your process in light or our readings and discussions, as you do in other lab reports. You can upload the Twine HTML file in Canvas to submit your lab report.
 
 ## Resources
 
@@ -21,3 +21,5 @@ The basic premise for today's lab report is simple: write in in Twine! You shoul
 + [Twine Resources](https://twinelab.net/twine-resources/#/)
 + ["Is This a Book" student Twine Project](https://www.dropbox.com/s/o3jxqg9tkgxk2cl/IsThisABook.html?dl=0)
 + [Camping game student final project](https://www.dropbox.com/s/skz287c2zgsr3b7/Student-Project-1.html?dl=0)
++ [Twine games at Itch.io](https://itch.io/games/made-with-twine)
++ [Twine games at the Interactive Fiction Database](https://ifdb.org/search?searchfor=tag:twine)
