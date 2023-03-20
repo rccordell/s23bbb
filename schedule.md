@@ -113,7 +113,7 @@ Monday, March 20 | **DUE: BOOK PROJECT PROPOSAL**
 
 Tuesday, March 21 | Discussion
 
-+ Ulises Carrión, “The New Art of Making Books” (1975), [external link](http://www.reflexionesmarginales.com/biblioteca/15/Documentos/Ulises_Carrion:The_New_Art_of_Making_Books.pdf) 
++ Ulises Carrión, “The New Art of Making Books” (1975), [external link](https://www.serraglia.com/wp-content/uploads/2018/05/Ulises-Carrion-The-New-Art-of-Making-Books1.pdf) 
 + Beth Driscoll and Claire Squires, [“‘Oh Look, a Ferry’; or the Smell of Printed Books”](https://www.theliftedbrow.com/liftedbrow/2018/10/24/oh-look-a-ferry-or-the-smell-of-paper-books-by-beth-driscoll-and-claire-squires) (2018)
 + Merve Emre, “This Library Has New Books by Major Authors, but They Can’t Be Read Until 2114” (2018), [external link](https://www.nytimes.com/2018/11/01/t-magazine/future-library-books.html)
 
