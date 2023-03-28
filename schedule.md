@@ -130,20 +130,20 @@ Tuesday, March 28 | Discussion
 
 Thursday, March 30: Studio
 
-## Chapter 9: Future Past
+## Chapter 9: Interlude
 
-Tuesday, April 4 | Discussion
-
-+ Jon Bois, “What Football Will Look Like in the Future” (2017), [external link](https://www.sbnation.com/a/17776-football/). _Note: This story is a longer read—a novelette, probably—but worth the time. Plan accordingly_
+Tuesday, April 4 | Studio
 
 Thursday, April 6 | Studio
 
 Friday, April 7| **DUE: BOOK PROJECT PROTOTYPE**
 
 
-## Chapter 10: Denouement
+## Chapter 10: Future Past
 
-Tuesday, April 11 | Studio
+Tuesday, April 11 | Discussion
+
++ Jon Bois, “What Football Will Look Like in the Future” (2017), [external link](https://www.sbnation.com/a/17776-football/). _Note: This story is a longer read—a novelette, probably—but worth the time. Plan accordingly_
 
 Thursday, April 13 | Studio
 
